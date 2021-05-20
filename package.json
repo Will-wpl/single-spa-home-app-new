@@ -1,5 +1,5 @@
 {
-  "name": "single-spa-home-app",
+  "name": "single-spa-home-app-new",
   "version": "0.1.4",
   "description": "AngularJS application with home page for be included in a single-spa application as registered app.",
   "main": "dist/single-spa-home-app.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Will-wpl/single-spa-home-app.git"
+    "url": "git+https://github.com/Will-wpl/single-spa-home-app-new.git"
   },
-  "author": "Juan Manuel López Pazos",
+  "author": "WPL",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Will-wpl/single-spa-home-app/issues"
+    "url": "https://github.com/Will-wpl/single-spa-home-app-new/issues"
   },
-  "homepage": "https://github.com/Will-wpl/single-spa-home-app#readme",
+  "homepage": "https://github.com/Will-wpl/single-spa-home-app-new#readme",
   "dependencies": {
     "angular": "1.8.0",
     "angular-ui-router": "1.0.25",
