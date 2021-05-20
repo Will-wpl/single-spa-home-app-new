@@ -1,8 +1,8 @@
 {
   "name": "single-spa-home-app-new",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "description": "AngularJS application with home page for be included in a single-spa application as registered app.",
-  "main": "dist/single-spa-home-app.js",
+  "main": "dist/single-spa-home-app-new.js",
   "scripts": {
     "build": "webpack --config webpack.config.js -p",
     "lint": "eslint . --ext .js --fix"
